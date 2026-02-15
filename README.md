@@ -1,2 +1,2 @@
-# Graph-to-RNN
-using graph theory and applying rnn to check the condition of the team
+# Graph Neural Network
+using graph theory and applying nnconv to predict the next hour pollution level
