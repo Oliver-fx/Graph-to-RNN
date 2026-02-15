@@ -52,6 +52,8 @@ struct edgeInfo {
 
 typedef struct graph *Graph;
 
+Graph graphNew(int playerNum, Position tacticPosition, char teamName[100], struct PlayerFeature initialPlayerFeatures[]);
+
 Graph graphNew(int playerNum, Position tacticPosition, char teamName[100], struct PlayerFeature initialPlayerFeatures[]) {
     Graph newGraph = malloc(sizeof(*newGraph));
 

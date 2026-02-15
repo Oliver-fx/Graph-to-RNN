@@ -1,0 +1,13 @@
+Sydney
+33.86 151.21 SydneyObervertoryHill 180 5 6.8 26.0 78
+33.95 151.17 SYDAirport 180 6 3.6 28.8 55
+33.83 151.07 SydneyOlympicPark 180 4 2.8 31.0 38
+33.90 150.73 BadgerysCreek 225 3 7.8 30.0 45
+33.92 150.98 BankStown 225 2 10.5 31.2 34
+34.04 150.69 Camden 225 3 4.6 30.2 36
+34.06 150.77 Campbelltown 225 2 13.8 29.4 38
+33.91 151.11 Canterbury 180 4 3.2 31.0 33
+34.08 150.90 Holsworthy 225 3 12.5 29.5 36
+33.72 150.68 Penrith 225 3 6.2 30.5 39
+33.60 150.78 Richmond 247.5 10 2.2 31.0 35
+33.62 150.27 MountBoyce 247.5 18 5.4 22.0 53
